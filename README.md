@@ -4,6 +4,7 @@ Introduction to AXI4-Lite (Advanced Extensible Interface)
 Advanced eXtensible Interface 4 (AXI4) is a family of buses defined as part of the fourth generation of the ARM Advanced Microcontroler Bus Architectrue (AMBA) standard. AXI was first introduced with the third generation of AMBA, as AXI3, in 1996.
 # AXI-Lite Channels:
 Supports 2 main operations/transactions: Read and Write.
+
 Read transaction:
 1- Read the address channel (data is read from here).
 2- Read the data channel.
